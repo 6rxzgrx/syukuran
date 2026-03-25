@@ -17,6 +17,9 @@ const bodyFont = Manrope({
 export const metadata: Metadata = {
 	title: 'Adek & Vivi Wedding',
 	description: 'Syukuran Pernikahan for Adek & Vivi',
+	icons: {
+		icon: '/invitation-logo.svg',
+	},
 };
 
 export default function RootLayout({
